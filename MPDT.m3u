@@ -1811,5 +1811,6 @@ https://iptv-org.github.io/iptv/index.language.m3u
 #EXTINF:24,01.ALL CHANEL
 #EXTVLCOPT:file-caching=1000
 https://iptv-org.github.io/iptv/index.country.m3u
+#EXTINF:OTHER CHANNEL
 #EXTVLCOPT:file-caching=1000
 https://drive.google.com/uc?export=download&id=1wuNp48QlexoOzH0AX78u0sL3XfGybwnE
