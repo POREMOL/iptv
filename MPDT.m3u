@@ -326,7 +326,7 @@ http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and
 #EXTINF:24,Movie Bangla TV
 #EXTVLCOPT:file-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:21,Zee Bangla Cinema [IN]
+#EXTINF:21,Cinema [IN]
 #EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:60,Calcutta News
@@ -1177,31 +1177,25 @@ https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
 #EXTINF:21,index.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:15,SUN_BANGLA.m3u8
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:15,AAMAR_CINEMA.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:file-caching=1000
 http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
-#EXTINF:199,index.m3u8
+#EXTINF:199,ZEE BANGLA
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://iptv10.raytahost.com/lite/channel69_hi/index.m3u8
 #EXTINF:15,BANGLA_TALKIES.m3u8
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:file-caching=1000
-#EXTVLCOPT:file-caching=1000
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:31,rplusgold.m3u8
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:file-caching=1000
 #EXTVLCOPT:file-caching=1000
 https://idvd.multitvsolution.com/idvo/rplusgold.m3u8
 #EXTINF:21,index.m3u8
@@ -1796,6 +1790,9 @@ http://node-12.zeno.fm:80/mzuka1fdxzzuv
 #EXTINF:61,ichannel.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.205.133.48/hls/ichannel.m3u8
+#EXTINF: T SPORTS
+#EXTVLCOPT:file-caching=1000
+https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:24,01.ALL CHANEL
 #EXTVLCOPT:file-caching=1000
 https://gitlab.com/secretworld200/live-tv/-/raw/main/livetv.m3u8
