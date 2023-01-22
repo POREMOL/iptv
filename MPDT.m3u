@@ -394,7 +394,7 @@ http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:29,R Plus News
 #EXTVLCOPT:file-caching=1000
-https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
+https://tv.googledrivelinks.com/live.php?c=RPLUS&q=250&e=.m3u8
 #EXTINF:60,Assam Talks
 #EXTVLCOPT:file-caching=1000
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
