@@ -1814,9 +1814,9 @@ https://iptv-org.github.io/iptv/index.country.m3u
 #EXTINF:OTHER CHANNEL
 #EXTVLCOPT:file-caching=1000
 https://od.lk/s/ODRfNjMzNjA3NzNf/CS%20IPTV%20Free.m3u8
-#EXTINF: BANGLADESH CHANNEL
+#EXTINF:BANGLADESH CHANNEL
 #EXTVLCOPT:file-caching=1000
 http://103.113.149.51:8000/playlist.m3u8
-#EXTINF: INDIA CHANNEL
+#EXTINF:INDIA CHANNEL
 #EXTVLCOPT:file-caching=1000
 http://180.178.188.152:8000/playlist.m3u8
