@@ -1813,7 +1813,4 @@ https://iptv-org.github.io/iptv/index.language.m3u
 https://iptv-org.github.io/iptv/index.country.m3u
 #EXTINF:OTHER CHANNEL
 #EXTVLCOPT:file-caching=1000
-https://drive.google.com/uc?export=download&id=1wuNp48QlexoOzH0AX78u0sL3XfGybwnE
-#EXTINF:OTHER CHANNEL
-#EXTVLCOPT:file-caching=1000
 https://od.lk/s/ODRfNjMzNjA3NzNf/CS%20IPTV%20Free.m3u8
