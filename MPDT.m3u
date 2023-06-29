@@ -1823,3 +1823,6 @@ http://103.113.149.51:8000/playlist.m3u8
 #EXTINF:INDIA CHANNEL
 #EXTVLCOPT:file-caching=1000
 http://180.178.188.152:8000/playlist.m3u8
+#EXTINF:ALL CHANNEL
+#EXTVLCOPT:file-caching=1000
+https://api.onedrive.com/v1.0/shares/s!AgqBcJrCB6-FrRzntibdCB_755Hm/root/content
