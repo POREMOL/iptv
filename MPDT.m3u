@@ -1826,7 +1826,7 @@ http://180.178.188.152:8000/playlist.m3u8
 #EXTINF:ALL CHANNEL
 #EXTVLCOPT:file-caching=1000
 https://api.onedrive.com/v1.0/shares/s!AgqBcJrCB6-FrRzntibdCB_755Hm/root/content
-#EXTINF: SPORTS
+#EXTINF:24, 01.SPORTS
 https://is.gd/freecatvm3u
 #EXTINF:24,01.MIX
 https://is.gd/bdfreecatvm3u
