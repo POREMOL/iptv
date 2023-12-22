@@ -1826,3 +1826,9 @@ http://180.178.188.152:8000/playlist.m3u8
 #EXTINF:ALL CHANNEL
 #EXTVLCOPT:file-caching=1000
 https://api.onedrive.com/v1.0/shares/s!AgqBcJrCB6-FrRzntibdCB_755Hm/root/content
+#EXTINF: SPORTS
+https://is.gd/freecatvm3u
+#EXTINF: MIX 1
+https://is.gd/bdfreecatvm3u
+#EXTINF: MIX 2
+https://1rdk.short.gy/himelop-premium-2.0.m3u
