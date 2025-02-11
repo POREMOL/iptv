@@ -1827,14 +1827,20 @@ http://180.178.188.152:8000/playlist.m3u8
 #EXTVLCOPT:file-caching=1000
 https://api.onedrive.com/v1.0/shares/s!AgqBcJrCB6-FrRzntibdCB_755Hm/root/content
 #EXTINF:24,01.SPORTS
+#EXTVLCOPT:file-caching=1000
 https://is.gd/freecatvm3u
 #EXTINF:24,02. SPORTS 2
+#EXTVLCOPT:file-caching=1000
 https://is.gd/QnlwJr
 #EXTINF:24,01.MIX
+#EXTVLCOPT:file-caching=1000
 https://is.gd/bdfreecatvm3u
 #EXTINF:24,02.MIX
+#EXTVLCOPT:file-caching=1000
 https://1rdk.short.gy/himelop-premium-2.0.m3u
 #EXTINF:01. MIRAZ TV
+#EXTVLCOPT:file-caching=1000
 https://is.gd/gfd9pn
 #EXTINF:02. TOTAFLIX
+#EXTVLCOPT:file-caching=1000
 https://is.gd/5qbx05
