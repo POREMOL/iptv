@@ -1844,3 +1844,12 @@ https://is.gd/gfd9pn
 #EXTINF:01,002.TOTAFLIX
 #EXTVLCOPT:file-caching=1000
 https://is.gd/5qbx05
+#EXTINF:01,01.PLAYLIST
+#EXTVLCOPT:file-caching=1000
+http://is.gd/46nyoM.m3u
+#EXTINF:01,02.PLAYLIST
+#EXTVLCOPT:file-caching=1000
+http://is.gd/8gptOc.m3u
+#EXTINF:01,03.PLAYLIST
+#EXTVLCOPT:file-caching=1000
+http://is.gd/ge3emS.m3u
