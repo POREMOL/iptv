@@ -5,6 +5,9 @@ https://lh3.googleusercontent.com/a-/AOh14GgYw1TXP8bmcIEPxcHp4dzqinMqXrP4iJHOKUO
 #EXTINF:24,01.AKASH GO
 #EXTVLCOPT:file-caching=1000
 https://github.com/POREMOL/AKASH-GO/raw/refs/heads/main/AKASH%20GO.m3u
+#EXTINF:24,ALL CHANNEL
+#EXTVLCOPT:file-caching=1000
+https://iptv-org.github.io/iptv/index.m3u
 #EXTINF:24,18.Boishakhi
 #EXTVLCOPT:file-caching=1000
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
